@@ -10,8 +10,8 @@
 
 | # | 标题 | 阶段 | 状态 |
 |:--|:--|:--|:--|
-| [001](issues/001-model-switching-regression-failure.md) | 跨模型回归：主力模型调通的仿真切换模型后结果不一致 | 仿真验证 | 🟢当前有效 |
-| [002](issues/002-eda-simulation-token-burn.md) | EDA 仿真 Token 消耗过大：根因与优化 | 仿真验证 | 🟢当前有效 |
+| [001](issues/001-model-switching-regression-failure.md) | 跨模型回归：主力模型调通的仿真切换模型后结果不一致 | 仿真验证 | 🟡待观察 |
+| [002](issues/002-eda-simulation-token-burn.md) | EDA 仿真 Token 消耗过大：根因与优化 | 仿真验证 | 🟡待观察 |
 
 ## 目录结构
 
