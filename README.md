@@ -4,15 +4,7 @@
 
 ## 背景
 
-本仓库用于记录在实际数字 IC 项目中，使用 Claude Code 等 AI Agent 辅助完成以下工作时踩过的坑、积累的经验和有效的实践模式：
-
-- 设计文档撰写（Markdown/DrawIO）
-- Verilog RTL 编码与 Review
-- 寄存器配置分析
-- 跨时钟域 CDC 分析
-- 仿真验证环境搭建（ModelSim/UVM）
-- 综合与时序收敛
-- AI Agent 的提示词技巧
+本仓库用于记录在实际数字 IC 项目中，使用 Claude Code 等 AI Agent 辅助设计验证时踩过的坑、积累的经验和有效的实践模式。
 
 ## 问题速览
 
