@@ -6,7 +6,7 @@
 |:--|:--|
 | **编号** | 001 |
 | **日期** | 2026-07-06 |
-| **项目** | FISHEYE |
+| **项目** | AGDC |
 | **阶段** | 仿真验证 |
 | **严重程度** | P1 重要 |
 | **AI Agent** | Claude Opus 4.8 → DeepSeek-v4 |
@@ -96,5 +96,5 @@ python ../scripts/compare_yuv.py ../data/output.yuv ../data/golden.yuv
 
 ## 相关链接
 
-- 仓库: [FISHEYE RTL 仿真](https://github.com/Amicro-Digital/FISHEYE0510)
+- 仓库: [AGDC (Advanced GDC)](https://github.com/Amicro-Digital/Advanced_GDC)
 - 关联仓库: [ai-ic-cookbook](https://github.com/Amicro-Digital/ai-ic-cookbook)
