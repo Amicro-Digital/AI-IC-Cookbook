@@ -28,8 +28,3 @@ ai-ic-cookbook/
 1. 遇到 AI Agent 辅助设计/验证相关问题时，按模板记录在 `issues/` 下
 2. 解决后补充根因分析和经验教训
 3. 通用技巧沉淀到 `tips/` 目录
-
-## 相关资源
-
-- Claude Code 项目配置：[claude-config](https://github.com/Amicro-Digital/claude-config)
-- Claude Code 技能仓库：[FISHEYE 项目技能集](https://github.com/Amicro-Digital/FISHEYE0510)
