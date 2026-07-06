@@ -74,28 +74,6 @@ Opus 4.8 和 DeepSeek-v4 的上下文理解、指令遵循风格差异较大。O
 3. 如果一个流程不能被 script 自动化，就至少应该有一份 step-by-step 命令清单
 4. 回归验证应该尽量用同一模型，或至少用同一份固化流程文档驱动不同模型
 
-## 可复现流程示例（模板）
-
-```bash
-# === 环境 ===
-# ModelSim/Questa 版本: 20xx.x
-# 工作目录: D:/project/sim/
-
-# Step 1: 编译 RTL
-vlog -work work -f flist.txt +define+SIM
-
-# Step 2: 编译 testbench
-vlog -work work -sv tb_top.sv
-
-# Step 3: 运行仿真 + 波形
-vsim -c -do "run -all; quit" work.tb_top \
-  -gINPUT_IMG=../data/input.yuv \
-  -gOUTPUT_IMG=../data/output.yuv
-
-# Step 4: 校验输出
-python ../scripts/compare_yuv.py ../data/output.yuv ../data/golden.yuv
-```
-
 ## 相关链接
 
 - 仓库: [AGDC (Advanced GDC)](https://github.com/Amicro-Digital/Advanced_GDC)
