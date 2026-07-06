@@ -15,7 +15,7 @@
 ## 目录结构
 
 ```
-ai-ic-cookbook/
+AI-IC-Cookbook/
 ├── README.md
 ├── issues/              # 问题与解决记录
 │   └── template.md      # 记录模板

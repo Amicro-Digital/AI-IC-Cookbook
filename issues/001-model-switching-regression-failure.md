@@ -99,4 +99,4 @@ python ../scripts/compare_yuv.py ../data/output.yuv ../data/golden.yuv
 ## 相关链接
 
 - 仓库: [AGDC (Advanced GDC)](https://github.com/Amicro-Digital/Advanced_GDC)
-- 关联仓库: [ai-ic-cookbook](https://github.com/Amicro-Digital/ai-ic-cookbook)
+- 关联仓库: [AI-IC-Cookbook](https://github.com/Amicro-Digital/AI-IC-Cookbook)
